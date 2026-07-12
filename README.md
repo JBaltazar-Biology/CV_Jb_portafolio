@@ -72,5 +72,5 @@ Manejo avanzado de **Excel y Minitab**, además de conocimientos en **Python, SQ
 - 📧 **Correo:** de.baltazar.j@gmail.com  
 - 📱 **Teléfono:** +52 55 1507 9029  
 - 🌐 **GitHub:** [JBaltazar-Biology](https://github.com/JBaltazar-Biology)
-- 🌐 **Website:** https://jbaltazar-biology.github.io/CV_Jb_portafolio/
-- 💼 **LinkedIn:** [Jacobo Baltazar]([www.linkedin.com/in/jacobo-d-baltazar](https://www.linkedin.com/in/jacobo-d-baltazar/)
+- 🌐 **Website:** [Web-JBaltazar](https://jbaltazar-biology.github.io/CV_Jb_portafolio/)
+- 💼 **LinkedIn:** [Linkedin_Jacobo Baltazar](https://www.linkedin.com/in/jacobo-d-baltazar/)
