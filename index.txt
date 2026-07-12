@@ -1,0 +1,207 @@
+Jacobo Daniel Baltazar Blanco — CV / Portafolio
+
+# sidebar
+
+JB
+Jacobo D. Baltazar Blanco
+Químico en Documentación · Analista de Producto
+
+Ver contactos
+
+Email
+de.baltazar.j@gmail.com
+
+Teléfono
++52 55 1507 9029
+
+Formación
+Lic. en Biología, UNAM
+
+Ubicación
+Tláhuac, Ciudad de México
+
+# navbar
+
+Perfil
+Currículum
+Certificaciones
+Competencias
+Contacto
+
+# perfil
+
+Perfil profesional
+
+Profesional en documentación química y análisis estadístico aplicado a la industria
+farmacéutica, con experiencia en gestión de bases de datos, elaboración de Reportes
+Anuales de Producto (RAP), Verificación Continua del Proceso (VCP) y cumplimiento
+regulatorio bajo la NOM-059 y las Buenas Prácticas de Documentación.
+
+Manejo avanzado de Excel y Minitab, además de conocimientos en Python, SQL y Power BI
+para automatización, análisis y visualización de datos. Actualmente orientado al
+desarrollo profesional como Data Scientist aplicado a la industria farmacéutica.
+
+
+## áreas de especialidad
+
+Documentación regulatoria
+Elaboración de RAP, VCP y control documental conforme a NOM-059, FEUM y BPD.
+
+Análisis estadístico
+Control estadístico de procesos, ANOVA, pruebas t y análisis de capacidad con Minitab.
+
+Automatización de datos
+Desarrollo de herramientas con Python (Pandas, SciPy, Statsmodels) y VBA en Excel.
+
+Business Intelligence
+Dashboards e indicadores clave con Power BI, Power Query y SQL.
+
+
+## logros destacados
+
+Degort's Chemical S.A. de C.V.
+Implementación de bases de datos regulatorias automatizadas y gráficas de control,
+logrando una reducción del 15% en los tiempos de elaboración de reportes regulatorios.
+Desarrollo de herramientas estadísticas con Python (Pandas, SciPy, Statsmodels,
+Matplotlib, Seaborn y Scikit-Learn).
+
+Amarox Pharma / Hetero Drug México
+Ascenso de Trainer RAP a Analista RAP en menos de un año. Elaboración de reportes
+regulatorios para excursiones de temperatura durante transporte y apoyo en proyectos
+de farmacovigilancia.
+
+National Translation
+Traducción técnica de documentación farmacéutica y de farmacovigilancia en alemán,
+francés, neerlandés y coreano, además de la elaboración de cartas regulatorias y
+certificados fisicoquímicos.
+
+
+## idiomas
+
+Español — Nativo
+Inglés — B2 (hacia C1)
+Alemán — Básico
+Francés — Básico
+
+
+# currículum
+
+Currículum
+
+Formación académica
+
+Licenciatura en Biología — FES Zaragoza, UNAM
+Titulado — 2021
+Titulado y con cédula profesional. Formación complementada con cursos de biosíntesis
+microbiana en la Facultad de Química, UNAM.
+
+Experiencia profesional
+
+Químico en Documentación — Degort's Chemical S.A. de C.V.
+Octubre 2024 — Actualidad
+Gestión de bases de datos regulatorias mediante Excel avanzado (Power Query y VBA).
+Automatización de gráficas de control y análisis estadístico usando Minitab.
+Elaboración de reportes de Verificación Continua del Proceso (VCP). Atención a
+auditorías regulatorias conforme a NOM-059, FEUM y BPD.
+Logros:
+- Implementación de bases de datos automatizadas y gráficas de control.
+- Reducción del 15% en tiempos de elaboración de reportes regulatorios.
+- Desarrollo de herramientas estadísticas con Python (Pandas, SciPy, Statsmodels,
+  Matplotlib, Seaborn y Scikit-Learn).
+
+Analista RAP — Amarox Pharma / Hetero Drug México
+Marzo 2024 — Octubre 2024
+Elaboración de Reportes Anuales de Producto conforme a NOM-059. Gestión documental de
+PNO, bibliografías y certificados fisicoquímicos. Apoyo en proyectos de
+farmacovigilancia.
+Logros:
+- Ascenso de Trainer RAP a Analista RAP.
+- Elaboración de reportes regulatorios para excursiones de temperatura durante
+  transporte.
+
+Consultor Freelance — National Translation
+Noviembre 2022 — Febrero 2024
+Traducción de documentación técnica farmacéutica y de farmacovigilancia. Elaboración
+de cartas regulatorias y certificados fisicoquímicos. Traducción técnica de
+documentos en alemán, francés, neerlandés y coreano.
+
+Competencias técnicas (nivel)
+
+Excel avanzado (Power Query / VBA) — 90%
+Minitab (SPC / Six Sigma) — 85%
+Python (Pandas, SciPy, Scikit-Learn) — 75%
+SQL — 60%
+Power BI — 65%
+Normatividad farmacéutica (NOM-059, FEUM, BPD) — 90%
+
+
+# certificaciones
+
+Certificaciones
+
+Todos
+Farmacéutica
+Datos
+Laboratorio
+
+Data Science — TripleTen (2026) — Datos
+Preparación y evaluación de suspensión farmacéutica oral — CCBIO (2026) — Farmacéutica
+Estadística Farmacéutica — Pharmaceutical Services & Consulting (2026) — Farmacéutica
+Capacitación Teórico-Práctica en HPLC — ConyFarma (2023) — Laboratorio
+Procesos de Validación en Laboratorio — BioAdviser (2022) — Laboratorio
+Técnicas de Biología Molecular — BioAdviser (2022) — Laboratorio
+Curso Básico de HPLC — BioAdviser — Laboratorio
+Biosíntesis Microbiana — Facultad de Química, UNAM — Farmacéutica
+
+
+# competencias en detalle
+
+Competencias en detalle
+
+Excel avanzado
+- Bases de datos regulatorias (VCP, DAS, Programa de Fabricación, Bases Maestras)
+- Automatización con Power Query y VBA
+- Tablas dinámicas, XLOOKUP, INDEX/MATCH, SUMIFS
+- Validación y limpieza de datos, dashboards
+
+SQL (nivel básico-intermedio)
+- Consultas SELECT y filtrado con WHERE
+- JOIN entre tablas
+- GROUP BY y funciones de agregación (COUNT, AVG, SUM, MAX, MIN)
+- Manejo básico de bases de datos relacionales
+
+Python
+- Manipulación de datos con Pandas y NumPy
+- Visualización con Matplotlib y Seaborn
+- Análisis estadístico con SciPy y Statsmodels
+- Automatización de reportes y proyectos de ciencia de datos
+
+Power BI
+- Desarrollo de dashboards básicos
+- Transformación de datos con Power Query
+- Modelado sencillo de datos y visualización de KPIs
+
+Minitab
+- Control estadístico del proceso (SPC) y gráficas de control
+- ANOVA y pruebas t
+- Análisis de capacidad del proceso (Cp, Cpk, Pp, Ppk)
+- Uso avanzado de línea de comandos para automatización
+
+Normatividad farmacéutica
+- NOM-059-SSA1, NOM-072, NOM-073, FEUM 13
+- Buenas Prácticas de Documentación (BPD)
+- Elaboración de RAP y VCP
+- Atención a auditorías regulatorias
+
+
+# contacto
+
+Contacto
+
+Formulario de contacto
+
+Nombre completo
+Correo electrónico
+Tu mensaje
+
+Enviar mensaje
